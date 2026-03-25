@@ -16,7 +16,7 @@ A feature-rich, multi-mode calculator built with pure HTML, CSS, and JavaScript.
 - Zero dependencies — single HTML + CSS + JS
 
 ## Live Demo
-[View on GitHub Pages](https://dhammadip-kasbe.github.io/All-in-one-repository/)
+[View on GitHub Pages]( https://dhammadip-kasbe.github.io/All-in-one-calculator/)
 
 ## Tech Stack
 HTML5 · CSS3 · Vanilla JavaScript
